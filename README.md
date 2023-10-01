@@ -8,6 +8,7 @@ Em estudo: Javascript, nodejs, html, css e bootstrap.
 
 ### Para me encontrar:
 > Facebook : https://www.facebook.com/elianafuji
+> 
 > Linkedin : https://www.linkedin.com/in/eliana-fuji/
 
 ![HTML]
