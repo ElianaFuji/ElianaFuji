@@ -4,7 +4,7 @@ Meu nome é Eliana, sou conhecida como Fuji. Trabalhei como analista programador
 
 Atualmente estudo linguagens voltadas para desenvolvimento web. Minha intenção é conseguir desenvolver utilizando ferramentas para web.
 
-Atualmente estudo javascript, nodejs, html, css e bootstrap.
+Linguagens: javascript, nodejs, html, css e bootstrap.
 
 
 ![HTML]
