@@ -1,4 +1,12 @@
-### Hi there 👋
+# Olá ❗
+
+> Meu nome é Eliana, sou conhecida como Fuji. Trabalhei como analista programadora quando prestava consultoria. Cobol e Visual Basic foram as linguagens com que trabalhei. 
+
+> Atualmente estudo linguagens voltadas para desenvolvimento web. Minha intenção é conseguir desenvolver uma aplicação web do zero.
+
+> Atualmente estudo javascript, nodejs, html, css e bootstrap.
+
+
 
 <!--
 **ElianaFuji/ElianaFuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
