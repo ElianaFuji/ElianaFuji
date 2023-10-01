@@ -1,10 +1,11 @@
 # Olá ❗
 
-> Meu nome é Eliana, sou conhecida como Fuji. Trabalhei como analista programadora quando prestava consultoria. Cobol e Visual Basic foram as linguagens com que trabalhei. 
+Meu nome é Eliana, sou conhecida como Fuji. Trabalhei como analista programadora quando prestava consultoria. Cobol e Visual Basic foram as linguagens com que trabalhei. 
 
-> Atualmente estudo linguagens voltadas para desenvolvimento web. Minha intenção é conseguir desenvolver utilizando ferramentas para web.
+Atualmente estudo linguagens voltadas para desenvolvimento web. Minha intenção é conseguir desenvolver utilizando ferramentas para web.
 
-> Atualmente estudo javascript, nodejs, html, css e bootstrap.
+Atualmente estudo javascript, nodejs, html, css e bootstrap.
+
 
 ![HTML]
 
