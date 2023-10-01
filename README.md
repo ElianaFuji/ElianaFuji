@@ -7,8 +7,8 @@ Atualmente estudo linguagens voltadas para desenvolvimento web. Minha intenção
 Em estudo: Javascript, nodejs, html, css e bootstrap.
 
 ### Para me encontrar:
-Facebook : https://www.facebook.com/elianafuji
-Linkedin : https://www.linkedin.com/in/eliana-fuji/
+> Facebook : https://www.facebook.com/elianafuji
+> Linkedin : https://www.linkedin.com/in/eliana-fuji/
 
 ![HTML]
 
